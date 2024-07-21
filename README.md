@@ -11,13 +11,17 @@
  Optimize Gameplay Mechanics: Use dynamic programming to solve optimization problems within the game, such as finding the shortest path, maximizing coin collection, and minimizing damage from enemies.
 
 # Key Concepts:
-# Dynamic Programming (DP): A method for solving problems by breaking them down into overlapping subproblems and storing the solutions to these subproblems to avoid redundant computations.
+# Dynamic Programming (DP): 
+A method for solving problems by breaking them down into overlapping subproblems and storing the solutions to these subproblems to avoid redundant computations.
 
-# 2D Grids: A common structure in games where the environment is represented as a matrix of cells, each with specific properties (e.g., walkable, obstacle, enemy).
+# 2D Grids: 
+A common structure in games where the environment is represented as a matrix of cells, each with specific properties (e.g., walkable, obstacle, enemy).
 
-# Pathfinding: The process of finding a path from a starting point to a destination within a grid, often optimized to be the shortest or safest path.
+# Pathfinding: 
+The process of finding a path from a starting point to a destination within a grid, often optimized to be the shortest or safest path.
 
-# Optimization: Enhancing the game's performance and player experience by efficiently solving problems related to resource collection, enemy avoidance, and level completion.
+# Optimization: 
+Enhancing the game's performance and player experience by efficiently solving problems related to resource collection, enemy avoidance, and level completion.
 
 # Conclusion:
  This project demonstrates the practical application of 2D dynamic programming in game development. By breaking down the game's challenges into manageable subproblems and solving them efficiently, we can enhance the gameplay experience and optimize the game’s performance. Through this project, students will gain valuable insights into both game development and dynamic programming techniques.
